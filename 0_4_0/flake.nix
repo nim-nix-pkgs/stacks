@@ -9,7 +9,7 @@
   
   inputs.src-stacks-0_4_0.flake = false;
   inputs.src-stacks-0_4_0.owner = "rustomax";
-  inputs.src-stacks-0_4_0.ref   = "refs/tags/0.4.0";
+  inputs.src-stacks-0_4_0.ref   = "0_4_0";
   inputs.src-stacks-0_4_0.repo  = "nim-stacks";
   inputs.src-stacks-0_4_0.type  = "github";
   
